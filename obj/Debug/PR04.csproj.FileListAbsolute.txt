@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\homework\PR04\bin\Debug\PR04.exe.config
+C:\Users\user\Desktop\homework\PR04\bin\Debug\PR04.exe
+C:\Users\user\Desktop\homework\PR04\bin\Debug\PR04.pdb
+C:\Users\user\Desktop\homework\PR04\obj\Debug\PR04.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\homework\PR04\obj\Debug\PR04.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\homework\PR04\obj\Debug\PR04.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\homework\PR04\obj\Debug\PR04.exe
+C:\Users\user\Desktop\homework\PR04\obj\Debug\PR04.pdb
